@@ -1,0 +1,6 @@
+#java
+target
+*.log
+
+# vscode
+.vscode
